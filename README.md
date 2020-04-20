@@ -1,6 +1,5 @@
-# Project Title
+# Envirogreen
 
-This is an app for finding cleaners. Dont worry we will work on this 😄.
 
 ### Installing Dependencies
 
